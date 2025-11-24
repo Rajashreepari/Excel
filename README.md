@@ -13,7 +13,7 @@ The purpose of this project is to showcase skills such as data cleaning, formula
 ## 🖼 Dashboard Preview
 Here is a preview of the main dashboard from this project:
 ![Excel Dashboard Screenshot](./DashBoard1.png)
-[Excel Dashboard Screenshot](./DashBoard2.png)
+![Excel Dashboard Screenshot](./DashBoard2.png)
 
 ## 🎯 Skills Demonstrated
 - Data Cleaning (removing duplicates, fixing errors, formatting)
